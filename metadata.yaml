@@ -1,0 +1,33 @@
+_repo: Kun-metsa-kuolee-Kertomuksia-Norrlannista_51186
+_version: 0.0.1
+alternative_title: När skogen dör. Finnish
+contributor:
+  translator:
+    agent_name: Helander, Theodor
+    gutenberg_agent_id: '46281'
+    url: http://www.gutenberg.org/2009/agents/46281
+creator:
+  author:
+    agent_name: Lindholm, Valdemar
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46280'
+    url: http://www.gutenberg.org/2009/agents/46280
+description: ''
+gutenberg_issued: '2016-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51186'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Kun metsä kuolee -- Keskijärvi -- Uusitalo -- Nurkkala -- Perintölä
+  -- Äkkijyrkänteeltä. Lappalais-juttu -- Päivölä.
+title: 'Kun metsä kuolee: Kertomuksia Norrlannista'
+url: http://www.gutenberg.org/ebooks/51186
