@@ -1,11 +1,14 @@
 _repo: Kun-metsa-kuolee-Kertomuksia-Norrlannista_51186
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: När skogen dör. Finnish
 contributor:
   translator:
     agent_name: Helander, Theodor
     gutenberg_agent_id: '46281'
     url: http://www.gutenberg.org/2009/agents/46281
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lindholm, Valdemar
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46280'
     url: http://www.gutenberg.org/2009/agents/46280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51186#Kun-metsa-kuolee-Kertomuksia-Norrlannista
 gutenberg_issued: '2016-02-11'
 gutenberg_type: Text
 identifiers:
